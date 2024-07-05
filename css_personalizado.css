@@ -1,0 +1,62 @@
+.blue-titel{
+	color: #4a90e2;
+	font-family:'GoogleSans',sans-serif;
+	line-height: 1.2;
+	font-weight: 700;
+}
+.titel-principal{
+	color:#fff;
+	margin:0;
+	font-size:40px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.2;
+	font-weight: 700;
+}
+.titel-secundario{
+	font-size: 20px;
+	margin:0;
+	font-family:'Open Sans', sans-serif;
+	line-height:1.5;
+	font-weight:700;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	unicode-bidi: isolate;
+}	
+.text-subencabezado{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.67;
+	letter-spacing: normal;
+	color:#53565a;
+}
+p{
+	font-size: 20px;
+		font-family:'Open Sans', sans-serif;
+}
+.titel-teleco{
+	color:#fff;
+	margin:0;
+	font-size:38px;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 1.2;
+	font-weight: 700;
+}
+.titel-subteleco{
+	font-size: 20px;
+	margin:0;
+	font-family:'Open Sans', sans-serif;
+	line-height:1.5;
+	font-weight:700;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	unicode-bidi: isolate;
+}
