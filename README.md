@@ -2,6 +2,8 @@ Página principal de Laguntel.**<a href="https://laguntel.com/" target="_blank">
 
 ## Pantallas
 
+![Contacto](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_contacto.png)
+
 ## Entorno de Desarrollo
 
 - **Software necesario**
