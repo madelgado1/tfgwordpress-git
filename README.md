@@ -2,6 +2,11 @@ Página principal de Laguntel.**<a href="https://laguntel.com/" target="_blank">
 
 ## Pantallas
 
+![Home](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_inicio.png)
+![Somos](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_la_empresa.png)
+![Servicios_Telecomunicaciones](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_servicios_telecomunicaciones.png)
+![Servicios_Seguridad](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_seguridad_integral.png)
+![Servicios_Informática](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_inform%C3%A1tica.png)
 ![Contacto](https://github.com/madelgado1/tfgwordpress-git/blob/master/pantallas/p%C3%A1gina_contacto.png)
 
 ## Entorno de Desarrollo
