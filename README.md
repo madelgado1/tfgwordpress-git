@@ -1,6 +1,4 @@
-![Pagina principal laguntel](https://laguntel.com)
-
-Página principal de Laguntel.
+Página principal de Laguntel.**<a href="https://laguntel.com/" target="_blank">LAGUNTEL</a>**.
 
 ## Pantallas
 
