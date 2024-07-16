@@ -1,4 +1,4 @@
-Página principal de Laguntel.**<a href="https://laguntel.com/" target="_blank">LAGUNTEL</a>**.
+Rediseño integral del sitio web LAGUNTEL**<a href="https://laguntel.com/" target="_blank">LAGUNTEL</a>**.
 
 ## Pantallas
 
@@ -12,7 +12,9 @@ Página principal de Laguntel.**<a href="https://laguntel.com/" target="_blank">
 ## Entorno de Desarrollo
 
 - **Software necesario**
-
+  - WordPress 6.5.5
+    - Download WordPress: <a href="https://es.wordpress.org/download/">https://es.wordpress.org/download/</a>
+  - CSS -![css_personalizado.css](https://github.com/madelgado1/tfgwordpress-git/blob/master/css_personalizado.css)
 - **Librerías y frameworks utilizados en el proyecto**
 
 ## Descripción
