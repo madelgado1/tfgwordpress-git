@@ -23,10 +23,10 @@ Rediseño integral del sitio web LAGUNTEL**<a href="https://laguntel.com/" targe
 
 - ## **Librerías y frameworks utilizados en el proyecto**
 
-- Yoast SEO: <a href="https://wordpress.org/plugins/search/Yoast+SEO/">https://wordpress.org/plugins/search/Yoast+SEO/</a>
-- All in One Wp Security(AIOS): <a href="https://wordpress.org/plugins/search/%28AIOS/">https://wordpress.org/plugins/search/%28AIOS/</a>
-- WordPress Super Cache: <a href="https://wordpress.org/plugins/search/WordPress+Super+Cache/">https://wordpress.org/plugins/search/WordPress+Super+Cache/</a>
-- WPForms LITE: <a href="https://wordpress.org/plugins/search/WPForms+LITE/">https://wordpress.org/plugins/search/WPForms+LITE/</a>
+  - Yoast SEO: <a href="https://wordpress.org/plugins/search/Yoast+SEO/">https://wordpress.org/plugins/search/Yoast+SEO/</a>
+  - All in One Wp Security(AIOS): <a href="https://wordpress.org/plugins/search/%28AIOS/">https://wordpress.org/plugins/search/%28AIOS/</a>
+  - WordPress Super Cache: <a href="https://wordpress.org/plugins/search/WordPress+Super+Cache/">https://wordpress.org/plugins/search/WordPress+Super+Cache/</a>
+  - WPForms LITE: <a href="https://wordpress.org/plugins/search/WPForms+LITE/">https://wordpress.org/plugins/search/WPForms+LITE/</a>
 
 ## Descripción
 
